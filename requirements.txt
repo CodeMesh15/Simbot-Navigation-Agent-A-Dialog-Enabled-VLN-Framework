@@ -1,0 +1,16 @@
+# For the AI2-THOR simulator
+ai2thor
+
+# Core ML and Deep Learning
+torch
+torchvision
+numpy
+Pillow
+
+# For Language Model (BERT)
+transformers
+
+# For data handling and progress bars
+pandas
+tqdm
+matplotlib
